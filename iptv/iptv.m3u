@@ -3,7 +3,7 @@
 http://edge05.beetv.kz:80/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
 #EXTINF:-1 ,Discovery Channel
 https://tv.2222.one/ch2.m3u8
-#EXTINF:-1 tvg-id="1" channel-id="1" channel-number="1" tvg-chno="1", 01 - Все мульты
+#EXTINF:-1 tvg-id="1" channel-id="1" channel-number="1" tvg-chno="1", Все мульты
 https://tv.2222.one/ch1.m3u8
 #EXTINF:-1  group-title="Кинозалы",Сериалы и мульты 
 https://tv.2222.one/ch9.m3u8
@@ -11,11 +11,9 @@ https://tv.2222.one/ch9.m3u8
 https://tv.2222.one/ch15.m3u8
 #EXTINF:-1  group-title="Кинозалы",Сериалы 2
 https://tv.2222.one/ch16.m3u8
-#EXTINF:-1  group-title="Кинозалы",X-Files
-https://tv.2222.one/ch4.m3u8
-#EXTINF:-1 tvg-id="3" channel-id="3" channel-number="3" tvg-chno="3", 03 - Другие сериалы
+#EXTINF:-1 tvg-id="3" channel-id="3" channel-number="3" tvg-chno="3", Другие сериалы
 https://tv.2222.one/ch3.m3u8
-#EXTINF:-1 tvg-id="18" channel-id="18" channel-number="18" tvg-chno="18", 18 - Разное
+#EXTINF:-1 tvg-id="18" channel-id="18" channel-number="18" tvg-chno="18", Разные мульты
 https://tv.2222.one/ch18.m3u8
 #EXTINF:-1 group-title="KINO+",КИНОХИТ
 http://93.125.34.51:30002/Kinohit/index.m3u8
