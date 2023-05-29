@@ -7,13 +7,13 @@ https://tv.2222.one/ch2.m3u8
 https://tv.2222.one/ch1.m3u8
 #EXTINF:-1  group-title="Кинозалы",Сериалы и мульты 
 https://tv.2222.one/ch9.m3u8
-#EXTINF:-1  group-title="Кинозалы",Сериалы
+#EXTINF:-1  group-title="Кинозалы",Камеди сериалы
 https://tv.2222.one/ch15.m3u8
-#EXTINF:-1  group-title="Кинозалы",Сериалы 2
+#EXTINF:-1  group-title="Кинозалы",Камеди сериалы 2
 https://tv.2222.one/ch16.m3u8
-#EXTINF:-1 tvg-id="3" channel-id="3" channel-number="3" tvg-chno="3", Другие сериалы
+#EXTINF:-1 tvg-id="3" channel-id="3" channel-number="3" tvg-chno="3", Камеди сериалы 3
 https://tv.2222.one/ch3.m3u8
-#EXTINF:-1 tvg-id="18" channel-id="18" channel-number="18" tvg-chno="18", Разные мульты
+#EXTINF:-1 tvg-id="18" channel-id="18" channel-number="18" tvg-chno="18", Старые мульты 
 https://tv.2222.one/ch18.m3u8
 #EXTINF:-1 group-title="KINO+",КИНОХИТ
 http://93.125.34.51:30002/Kinohit/index.m3u8
