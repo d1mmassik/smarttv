@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 ,Сomedy Сentral
 http://edge05.beetv.kz:80/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
-#EXTINF:-1 tvg-id="1" channel-id="1" channel-number="1" tvg-chno="1", Мульты
+#EXTINF:-1 tvg-id="1" channel-id="1" channel-number="1" tvg-chno="1", Мультсериалы
 https://tv.2222.one/ch1.m3u8
-#EXTINF:-1  group-title="Кинозалы",Сериалы и мульты 
+#EXTINF:-1  group-title="Кинозалы",Сериалы и мультсериалы
 https://tv.2222.one/ch9.m3u8
 #EXTINF:-1  group-title="Кинозалы",Камеди сериалы
 https://tv.2222.one/ch15.m3u8
@@ -11,7 +11,7 @@ https://tv.2222.one/ch15.m3u8
 https://tv.2222.one/ch16.m3u8
 #EXTINF:-1 tvg-id="3" channel-id="3" channel-number="3" tvg-chno="3", Камеди сериалы 3
 https://tv.2222.one/ch3.m3u8
-#EXTINF:-1 tvg-id="18" channel-id="18" channel-number="18" tvg-chno="18", Старые мульты 
+#EXTINF:-1 tvg-id="18" channel-id="18" channel-number="18" tvg-chno="18", Старые мультсериалы
 https://tv.2222.one/ch18.m3u8
 #EXTINF:0 type="stream" channelId="14", 2x2
 https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
