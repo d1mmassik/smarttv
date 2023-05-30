@@ -39,8 +39,6 @@ http://myott.top/stream/NZH6TKLQWR/146.m3u8
 http://myott.top/stream/NZH6TKLQWR/145.m3u8
 #EXTINF:0 type="stream" channelId="59" group="Познавательные", Investigation Discovery
 http://myott.top/stream/NZH6TKLQWR/205.m3u8
-#EXTINF:0 type="stream" channelId="1040" group="Познавательные", TLC HD
-http://myott.top/stream/25SMQ9HCKV/168.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",TLC HD
 https://sc.id-tv.kz/TLCHD_34_35.m3u8
 #EXTINF:0 type="stream" channelId="1456" group="Познавательные", History HD
