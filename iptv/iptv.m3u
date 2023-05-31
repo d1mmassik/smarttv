@@ -7,6 +7,8 @@ https://tv.2222.one/ch15.m3u8
 https://tv.2222.one/ch16.m3u8
 #EXTINF:-1 tvg-id="3" channel-id="3" channel-number="3" tvg-chno="3",Комедийные сериалы 3
 https://tv.2222.one/ch2.m3u8
+#EXTINF:-1  group-title="Кинозалы",Все сериалы
+https://tv.2222.one/ch3.m3u8
 #EXTINF:-1  group-title="Кинозалы",Сериалы и мультсериалы
 https://tv.2222.one/ch9.m3u8
 #EXTINF:-1 tvg-id="1" channel-id="1" channel-number="1" tvg-chno="1", Мультсериалы
@@ -15,8 +17,6 @@ https://tv.2222.one/ch1.m3u8
 https://tv.2222.one/ch18.m3u8
 #EXTINF:0 type="stream" channelId="14", 2x2
 http://flu.ttk.mx:9090/2x2/index.m3u8?token=orh6o
-#EXTINF:-1  group-title="Кинозалы",Все сериалы
-https://tv.2222.one/ch3.m3u8
 #EXTINF:-1 tvg-id="20" channel-id="20" channel-number="20" tvg-chno="20", 20 - Детективы
 https://tv.2222.one/ch20.m3u8
 #EXTINF:-1 group-title="KINO+",Видеокассета
